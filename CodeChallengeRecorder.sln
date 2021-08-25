@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallengeRecorder", "CodeChallengeRecorder\CodeChallengeRecorder.csproj", "{771DE137-81F5-4E73-909C-A36E98D7E498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771DE137-81F5-4E73-909C-A36E98D7E498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771DE137-81F5-4E73-909C-A36E98D7E498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771DE137-81F5-4E73-909C-A36E98D7E498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771DE137-81F5-4E73-909C-A36E98D7E498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787E6BA9-70AF-4FA3-9A81-620C1393750F}
+	EndGlobalSection
+EndGlobal
